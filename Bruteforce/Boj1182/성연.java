@@ -4,7 +4,7 @@ import java.util.*;
 
 public class Main {
     static int[] numArr;
-    static int targetNum;
+    static int targetNum; 
     static int count = 0;
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -26,15 +26,15 @@ public class Main {
     }
 
     private static void backTrack(int arrIdx, int sum, int depth) {
-        if (arrIdx == numArr.length) {
-            if (sum == targetNum && depth > 0) {
+        if (arrIdx == numArr.length) { 
+            if (sum == targetNum && depth > 0) {  //최소 한개의 연산이 필요함
                 count++;
             }
             return;
         }
-        backTrack(arrIdx + 1, sum + numArr[arrIdx], depth + 1);
+        backTrack(arrIdx + 1, sum + numArr[arrIdx], depth + 1);  // 해당 숫자를 선택한 경우 (depth 증가)
 
-        backTrack(arrIdx + 1, sum, depth);
+        backTrack(arrIdx + 1, sum, depth);                       // 해당 숫자를 선택하지 않은 경우 (depth 증가 x)
     }
 
 
