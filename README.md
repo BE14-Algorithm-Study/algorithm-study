@@ -1,10 +1,8 @@
-# 
-## 목차
-- [📌 Bruteforce](#bruteforce)
+### [📌 Bruteforce](#-bruteforce)
 
 # 
 ## 목차
-### 📌 Bruteforce
+## 📌 Bruteforce
 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 성연 | 민수 | 석희 | 민종 | 준규 | 동한 | 혜민 | 석현 |
 | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[1018](https://www.acmicpc.net/problem/1018)|[폴더](./Bruteforce/Boj1018)||✔|✔||||||
