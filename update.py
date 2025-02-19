@@ -4,7 +4,7 @@ import os
 import re
 from urllib import parse
 
-HEADER = """# 
+HEADER = """# BE14 알고리즘 스터디
 ## 목차
 """
 
@@ -45,7 +45,7 @@ def main():
                     toc.append(f"### [{category}](#-{toc_link})")
 
                     # 본문에 제목 추가
-                    content += f"## 📢 {category}\n"
+                    content += f"# 📢 {category}\n"
                     content += "| 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 성연 | 민수 | 석희 | 민종 | 준규 | 동한 | 혜민 | 석현 |\n"
                     content += "| ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
                     directories.add(category)
