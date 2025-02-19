@@ -1,4 +1,4 @@
-# <br> 🐶 BE14 알고리즘 스터디
+# 🐶 BE14 알고리즘 스터디
 ## 목차
 ### [Bruteforce](#-bruteforce)
 
