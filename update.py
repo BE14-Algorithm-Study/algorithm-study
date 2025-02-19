@@ -4,7 +4,7 @@ import os
 import re
 from urllib import parse
 
-HEADER = """# <br> 🐶 BE14 알고리즘 스터디
+HEADER = """# 🐶 BE14 알고리즘 스터디
 ## 목차
 """
 
