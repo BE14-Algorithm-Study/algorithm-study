@@ -4,7 +4,7 @@ import os
 import re
 from urllib import parse
 
-HEADER = """# BE14 알고리즘 스터디
+HEADER = """# <br> 🐶 BE14 알고리즘 스터디
 ## 목차
 """
 
@@ -51,7 +51,7 @@ def main():
                     directories.add(category)
 
                 # 표에 문제 번호 추가
-                content += f"|[{problem_number}]({problem_link})|[폴더]({folder_link})|"
+                content += f"|[{problem_number}]({problem_link})|[링크]({folder_link})|"
 
                 # 해당 문제를 푼 사람 체크
                 for name in names:
