@@ -42,10 +42,10 @@ def main():
                 if category not in directories:
                     # 목차에 추가
                     toc_link = category.replace(" ", "-").lower()  # Markdown 내부 링크 변환
-                    toc.append(f"- [📌 {category}](#{toc_link})")
+                    toc.append(f"### [📌 {category}](#-{toc_link})")
 
                     # 본문에 제목 추가
-                    content += f"### 📌 {category}\n"
+                    content += f"## 📌 {category}\n"
                     content += "| 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 성연 | 민수 | 석희 | 민종 | 준규 | 동한 | 혜민 | 석현 |\n"
                     content += "| ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |\n"
                     directories.add(category)
@@ -61,7 +61,7 @@ def main():
                 content += "\n"
 
     # 목차를 content 맨 앞부분에 추가
-    content = HEADER + "\n".join(toc) + "\n\n" + content
+    content = "\n".join(toc) + "\n\n" + content
 
     with open("README.md", "w") as fd:
         fd.write(content)
