@@ -6,7 +6,7 @@
 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 성연 | 민수 | 석희 | 민종 | 준규 | 동한 | 혜민 | 석현 |
 | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[1018](https://www.acmicpc.net/problem/1018)|[링크](./Bruteforce/Boj1018)|✔|✔|✔|✔|||||
-|[1065](https://www.acmicpc.net/problem/1065)|[링크](./Bruteforce/Boj1065)|✔||✔|✔|||||
+|[1065](https://www.acmicpc.net/problem/1065)|[링크](./Bruteforce/Boj1065)|✔|✔|✔|✔|||||
 |[1075](https://www.acmicpc.net/problem/1075)|[링크](./Bruteforce/Boj1075)|✔|✔|✔|✔|||✔||
 |[1182](https://www.acmicpc.net/problem/1182)|[링크](./Bruteforce/Boj1182)|✔||✔|✔|||||
 |[14501](https://www.acmicpc.net/problem/14501)|[링크](./Bruteforce/Boj14501)|✔||✔|✔|||||
