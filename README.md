@@ -9,7 +9,7 @@
 |[1065](https://www.acmicpc.net/problem/1065)|[링크](./Bruteforce/Boj1065)|✔|✔|✔|✔|||||
 |[1075](https://www.acmicpc.net/problem/1075)|[링크](./Bruteforce/Boj1075)|✔|✔|✔|✔|||✔||
 |[1182](https://www.acmicpc.net/problem/1182)|[링크](./Bruteforce/Boj1182)|✔||✔|✔|||||
-|[14501](https://www.acmicpc.net/problem/14501)|[링크](./Bruteforce/Boj14501)|✔||✔|✔|||||
+|[14501](https://www.acmicpc.net/problem/14501)|[링크](./Bruteforce/Boj14501)|✔|✔|✔|✔|||||
 |[1476](https://www.acmicpc.net/problem/1476)|[링크](./Bruteforce/Boj1476)|✔|✔|✔|✔|||||
 |[14888](https://www.acmicpc.net/problem/14888)|[링크](./Bruteforce/Boj14888)|✔|||✔|||||
 |[19532](https://www.acmicpc.net/problem/19532)|[링크](./Bruteforce/Boj19532)||✔|||||✔|✔|
