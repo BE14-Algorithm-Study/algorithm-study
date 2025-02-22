@@ -24,4 +24,4 @@
 # 📢 DFSBFS
 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 성연 | 민수 | 석희 | 민종 | 준규 | 동한 | 혜민 | 석현 |
 | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[1012](https://www.acmicpc.net/problem/1012)|[링크](./DFSBFS/Boj1012)|✔||||||||
+|[1012](https://www.acmicpc.net/problem/1012)|[링크](./DFSBFS/Boj1012)|✔|||✔|||||
