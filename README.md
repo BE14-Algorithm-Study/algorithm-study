@@ -1,6 +1,7 @@
 # 🐶 BE14 알고리즘 스터디
 ## 목차
 ### [Bruteforce](#-bruteforce)
+### [DFSBFS](#-dfsbfs)
 
 # 📢 Bruteforce
 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 성연 | 민수 | 석희 | 민종 | 준규 | 동한 | 혜민 | 석현 |
@@ -20,3 +21,7 @@
 |[2501](https://www.acmicpc.net/problem/2501)|[링크](./Bruteforce/Boj2501)||✔||||✔|✔|✔|
 |[2798](https://www.acmicpc.net/problem/2798)|[링크](./Bruteforce/Boj2798)||✔|||||✔||
 |[4673](https://www.acmicpc.net/problem/4673)|[링크](./Bruteforce/Boj4673)|✔|✔|✔|✔||✔|✔||
+# 📢 DFSBFS
+| 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 성연 | 민수 | 석희 | 민종 | 준규 | 동한 | 혜민 | 석현 |
+| ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+|[1012](https://www.acmicpc.net/problem/1012)|[링크](./DFSBFS/Boj1012)|✔||||||||
