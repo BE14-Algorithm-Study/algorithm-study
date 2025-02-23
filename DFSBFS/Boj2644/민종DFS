@@ -13,7 +13,6 @@ public class DFS {
     static boolean[][] connection;          // 부모자식 연결 관계도
     static boolean[] visited;               // 방문 배열
     static int count;
-    static boolean find;
     static int answer = -1;
 
     public static void main(String[] args) throws IOException {
