@@ -32,7 +32,7 @@
 |[2178](https://www.acmicpc.net/problem/2178)|[링크](./DFSBFS/Boj2178)||||✔|||||
 |[2468](https://www.acmicpc.net/problem/2468)|[링크](./DFSBFS/Boj2468)||||✔|||||
 |[2583](https://www.acmicpc.net/problem/2583)|[링크](./DFSBFS/Boj2583)||||✔|||||
-|[2606](https://www.acmicpc.net/problem/2606)|[링크](./DFSBFS/Boj2606)||||✔|||||
+|[2606](https://www.acmicpc.net/problem/2606)|[링크](./DFSBFS/Boj2606)||✔||✔|||||
 |[2644](https://www.acmicpc.net/problem/2644)|[링크](./DFSBFS/Boj2644)|✔|||✔|||||
 |[2667](https://www.acmicpc.net/problem/2667)|[링크](./DFSBFS/Boj2667)||||✔|||||
 |[4963](https://www.acmicpc.net/problem/4963)|[링크](./DFSBFS/Boj4963)|✔|||✔|||||
