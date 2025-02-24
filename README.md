@@ -25,7 +25,7 @@
 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 성연 | 민수 | 석희 | 민종 | 준규 | 동한 | 혜민 | 석현 |
 | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
 |[1012](https://www.acmicpc.net/problem/1012)|[링크](./DFSBFS/Boj1012)|✔|✔||✔|||||
-|[11724](https://www.acmicpc.net/problem/11724)|[링크](./DFSBFS/Boj11724)|✔|✔||✔|||||
+|[11724](https://www.acmicpc.net/problem/11724)|[링크](./DFSBFS/Boj11724)|✔|✔||✔||||✔|
 |[1260](https://www.acmicpc.net/problem/1260)|[링크](./DFSBFS/Boj1260)||✔||✔|||||
 |[14502](https://www.acmicpc.net/problem/14502)|[링크](./DFSBFS/Boj14502)||||✔|||||
 |[16953](https://www.acmicpc.net/problem/16953)|[링크](./DFSBFS/Boj16953)|✔|||✔|||||
