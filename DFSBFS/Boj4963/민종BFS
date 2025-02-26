@@ -1,4 +1,4 @@
-package BOJ4963;
+package S2.BOJ4963;
 
 import java.io.*;
 import java.util.Arrays;
@@ -61,12 +61,13 @@ public class BFS {
         Queue<Location> queue = new LinkedList<>();
         visited[x][y] = true;
         queue.add(new Location(x, y));
-
+        int nx = 0;
+        int ny = 0;
         while(!queue.isEmpty()) {
             Location loc = queue.poll();
             for (int i = 0; i < 8; i++) {
-                int nx = loc.x + move[i][0];
-                int ny = loc.y + move[i][1];
+                nx = loc.x + move[i][0];
+                ny = loc.y + move[i][1];
                 if (checkRange(nx, ny) && !visited[nx][ny] && map[nx][ny] == 1) {
                     queue.offer(new Location(nx, ny));
                     visited[nx][ny] = true;
