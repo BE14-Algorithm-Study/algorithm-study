@@ -24,18 +24,18 @@
 # 📢 DFSBFS
 | 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 성연 | 민수 | 석희 | 민종 | 준규 | 동한 | 혜민 | 석현 |
 | ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[1012](https://www.acmicpc.net/problem/1012)|[링크](./DFSBFS/Boj1012)|✔|✔|✔|✔|||||
-|[11724](https://www.acmicpc.net/problem/11724)|[링크](./DFSBFS/Boj11724)|✔|✔|✔|✔||||✔|
+|[1012](https://www.acmicpc.net/problem/1012)|[링크](./DFSBFS/Boj1012)|✔|✔|✔|✔|||✔||
+|[11724](https://www.acmicpc.net/problem/11724)|[링크](./DFSBFS/Boj11724)|✔|✔|✔|✔|||✔|✔|
 |[11725](https://www.acmicpc.net/problem/11725)|[링크](./DFSBFS/Boj11725)||✔|✔|✔|||||
-|[1260](https://www.acmicpc.net/problem/1260)|[링크](./DFSBFS/Boj1260)|✔|✔|✔|✔|||||
+|[1260](https://www.acmicpc.net/problem/1260)|[링크](./DFSBFS/Boj1260)|✔|✔|✔|✔|||✔||
 |[14502](https://www.acmicpc.net/problem/14502)|[링크](./DFSBFS/Boj14502)|✔|||✔|||||
 |[16953](https://www.acmicpc.net/problem/16953)|[링크](./DFSBFS/Boj16953)|✔|||✔|||||
-|[2178](https://www.acmicpc.net/problem/2178)|[링크](./DFSBFS/Boj2178)|✔||✔|✔|||||
+|[2178](https://www.acmicpc.net/problem/2178)|[링크](./DFSBFS/Boj2178)|✔||✔|✔|||✔||
 |[2468](https://www.acmicpc.net/problem/2468)|[링크](./DFSBFS/Boj2468)|✔|||✔|||||
 |[2583](https://www.acmicpc.net/problem/2583)|[링크](./DFSBFS/Boj2583)|✔|||✔|||||
-|[2606](https://www.acmicpc.net/problem/2606)|[링크](./DFSBFS/Boj2606)|✔|✔|✔|✔||||✔|
-|[2644](https://www.acmicpc.net/problem/2644)|[링크](./DFSBFS/Boj2644)|✔||✔|✔|||||
+|[2606](https://www.acmicpc.net/problem/2606)|[링크](./DFSBFS/Boj2606)|✔|✔|✔|✔|||✔|✔|
+|[2644](https://www.acmicpc.net/problem/2644)|[링크](./DFSBFS/Boj2644)|✔||✔|✔|||✔||
 |[2667](https://www.acmicpc.net/problem/2667)|[링크](./DFSBFS/Boj2667)|||✔|✔|||||
-|[4963](https://www.acmicpc.net/problem/4963)|[링크](./DFSBFS/Boj4963)|✔|✔|✔|✔|||||
+|[4963](https://www.acmicpc.net/problem/4963)|[링크](./DFSBFS/Boj4963)|✔|✔|✔|✔|||✔||
 |[7562](https://www.acmicpc.net/problem/7562)|[링크](./DFSBFS/Boj7562)|✔|||✔|||||
 |[7576](https://www.acmicpc.net/problem/7576)|[링크](./DFSBFS/Boj7576)|✔||||||||
