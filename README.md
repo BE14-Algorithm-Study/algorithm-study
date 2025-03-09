@@ -40,4 +40,4 @@
 |[2667](https://www.acmicpc.net/problem/2667)|[링크](./DFSBFS/Boj2667)|||✔|✔|||||
 |[4963](https://www.acmicpc.net/problem/4963)|[링크](./DFSBFS/Boj4963)|✔|✔|✔|✔|||✔||
 |[7562](https://www.acmicpc.net/problem/7562)|[링크](./DFSBFS/Boj7562)|✔|✔||✔|||||
-|[7576](https://www.acmicpc.net/problem/7576)|[링크](./DFSBFS/Boj7576)|✔|||✔|||||
+|[7576](https://www.acmicpc.net/problem/7576)|[링크](./DFSBFS/Boj7576)|✔|✔||✔|||||
