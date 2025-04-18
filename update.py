@@ -38,7 +38,7 @@ def main():
                     content += "| ----- | :-----: | " + " | ".join(["-----"] * len(names)) + " |\n"
                     directories.add(category)
 
-                content += f"|프로그래머스에서 검색하세요|[링크]({folder_link})|"
+                content += f"|{problem_name}|[링크]({folder_link})|"
                 for name in names:
                     checked = "✔" if any(name in file for file in files) else ""
                     content += f"{checked}|"
