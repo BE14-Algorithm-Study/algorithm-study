@@ -31,6 +31,7 @@ def main():
         if category == "." or directory == "." or directory in [".git", ".github", "images"]:
             continue
 
+        # ✅ 1. BOJ 문제 처리
         if directory.startswith("Boj"):
             match = re.match(r"Boj(\d+)", directory)
             if match:
@@ -59,6 +60,27 @@ def main():
                     content += f"{checked}|"
 
                 content += "\n"
+
+        # ✅ 2. Programmers 문제 처리
+        elif category == "Programmers":
+            problem_name = directory  # ex: 무인도여행
+            folder_link = parse.quote(os.path.join(root))
+
+            # Programmers 카테고리가 아직 안 나왔으면 제목과 목차 추가
+            if category not in directories:
+                toc_link = category.replace(" ", "-").lower()
+                toc.append(f"### [{category}](#-{toc_link})")
+                content += f"# 📢 {category}\n"
+                content += "| 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | " + " | ".join(names) + " |\n"
+                content += "| ----- | :-----: | " + " | ".join(["-----"] * len(names)) + " |\n"
+                directories.add(category)
+
+            # 문제명 + 깃 링크 + 참여자 체크
+            content += f"|프로그래머스에서 검색하세요|[링크]({folder_link})|"
+            for name in names:
+                checked = "✔" if any(name in file for file in files) else ""
+                content += f"{checked}|"
+            content += "\n"
 
     # 목차를 content 맨 앞부분에 추가
     content = HEADER + "\n".join(toc) + "\n\n" + content
