@@ -41,11 +41,3 @@
 |[4963](https://www.acmicpc.net/problem/4963)|[링크](./DFSBFS/Boj4963)|✔|✔|✔|✔|||✔||
 |[7562](https://www.acmicpc.net/problem/7562)|[링크](./DFSBFS/Boj7562)|✔|✔||✔|||||
 |[7576](https://www.acmicpc.net/problem/7576)|[링크](./DFSBFS/Boj7576)|✔|✔||✔|||||
-# 📢 Programmers
-| 문제 | &nbsp;&nbsp;깃&nbsp;&nbsp; | 성연 | 민수 | 석희 | 민종 | 준규 | 동한 | 혜민 | 석현 |
-| ----- | :-----: | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-|[무인도 여행](https://school.programmers.co.kr/learn/courses/30/lessons/154540)|[링크](./April_1st_week/Programmers/무인도여행)||||✔|||||
-|[뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)|[링크](./April_1st_week/Programmers/뒤에 있는 큰 수 찾기)||||✔|||||
-|[택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)|[링크](./April_1st_week/Programmers/택배 배달과 수거하기)||||✔|||||
-|[땅따먹기](https://school.programmers.co.kr/learn/courses/30/lessons/12913)|[링크](./April_1st_week/Programmers/땅따먹기)||||✔|||||
-|[디펜스 게임](https://school.programmers.co.kr/learn/courses/30/lessons/142085)|[링크](./April_1st_week/Programmers/디펜스 게임)||||✔|||||
