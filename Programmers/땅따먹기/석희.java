@@ -12,9 +12,14 @@ class Solution {
                 int prevMax = 0;
                 for(int k = 0; k < 4; k++)
                 {
+                    // 같은 열이라면 넘어가기
                     if(j == k) continue;
+                    
+                    // 바로 전행에 있는 값들 중 제일 큰 값 찾기
                     prevMax = Integer.max(prevMax, dp[i-1][k]);
                 }
+                
+                // 현재 모든 행에 전행의 최대값 더해주기
                 dp[i][j] = prevMax + land[i][j];
             }
         }
