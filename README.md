@@ -49,4 +49,4 @@
 |디펜스게임|[링크](./Programmers/%EB%94%94%ED%8E%9C%EC%8A%A4%EA%B2%8C%EC%9E%84)||||✔|||||
 |땅따먹기|[링크](./Programmers/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0)||✔|✔|✔|||||
 |무인도여행|[링크](./Programmers/%EB%AC%B4%EC%9D%B8%EB%8F%84%EC%97%AC%ED%96%89)||✔||✔|||||
-|택배배달과수거하기|[링크](./Programmers/%ED%83%9D%EB%B0%B0%EB%B0%B0%EB%8B%AC%EA%B3%BC%EC%88%98%EA%B1%B0%ED%95%98%EA%B8%B0)||||✔|||||
+|택배배달과수거하기|[링크](./Programmers/%ED%83%9D%EB%B0%B0%EB%B0%B0%EB%8B%AC%EA%B3%BC%EC%88%98%EA%B1%B0%ED%95%98%EA%B8%B0)||✔||✔|||||
