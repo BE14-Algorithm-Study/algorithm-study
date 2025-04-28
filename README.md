@@ -48,7 +48,7 @@
 |뒤에있는큰수찾기|[링크](./Programmers/%EB%92%A4%EC%97%90%EC%9E%88%EB%8A%94%ED%81%B0%EC%88%98%EC%B0%BE%EA%B8%B0)||✔||✔|||||
 |디펜스게임|[링크](./Programmers/%EB%94%94%ED%8E%9C%EC%8A%A4%EA%B2%8C%EC%9E%84)||||✔|||||
 |땅따먹기|[링크](./Programmers/%EB%95%85%EB%94%B0%EB%A8%B9%EA%B8%B0)||✔|✔|✔|||||
-|롤케이크자르기|[링크](./Programmers/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%EC%9E%90%EB%A5%B4%EA%B8%B0)||✔|||||||
+|롤케이크자르기|[링크](./Programmers/%EB%A1%A4%EC%BC%80%EC%9D%B4%ED%81%AC%EC%9E%90%EB%A5%B4%EA%B8%B0)||✔||✔|||||
 |무인도여행|[링크](./Programmers/%EB%AC%B4%EC%9D%B8%EB%8F%84%EC%97%AC%ED%96%89)||✔||✔|||||
 |서버증설횟수|[링크](./Programmers/%EC%84%9C%EB%B2%84%EC%A6%9D%EC%84%A4%ED%9A%9F%EC%88%98)||✔|||||||
 |택배배달과수거하기|[링크](./Programmers/%ED%83%9D%EB%B0%B0%EB%B0%B0%EB%8B%AC%EA%B3%BC%EC%88%98%EA%B1%B0%ED%95%98%EA%B8%B0)||✔||✔|||||
